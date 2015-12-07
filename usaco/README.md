@@ -2,8 +2,8 @@
 ----------
 
 ##Section 1.1	
-+            DONE	            TEXT Submitting Solutions
-+            TODO	 	PROB Your Ride Is Here
++            DONE	        TEXT Submitting Solutions
++            DONE	 	PROB Your Ride Is Here
 +            TODO	 	TEXT Contest Problem Types
 +            TODO	 	TEXT Ad Hoc Problems
 +            TODO	 	PROB Greedy Gift Givers
